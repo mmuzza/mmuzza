@@ -53,7 +53,7 @@
 - Enabled authenticated user actions with **JWT-based auth**
 - Containerized with **Docker** and deployed via **Kubernetes**
 - End-to-end: fully designed, built, and deployed by me  
-🔗 [GitHub Repo](https://github.com/mmuzza/movie-manager)
+🔗 [GitHub Repo](https://github.com/mmuzza/MovieSearchApplication)
 
 ---
 
