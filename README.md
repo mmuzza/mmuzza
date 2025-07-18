@@ -91,7 +91,13 @@
 
 ### 🧠 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/mmuzza19?theme=dark&font=Baloo&extension=activity)
+<p align="center"> <img src="https://leetcard.jacoblin.cool/mmuzza19?theme=dark&font=Baloo&extension=activity" alt="LeetCode Stats Card" /> </p>
+
+    In my free time, I enjoy solving LeetCode problems — not just to prep for interviews, but because it sharpens my mind. It teaches you how to break down complex problems, think algorithmically, and find elegant solutions under constraints.
+
+    Contrary to what some believe, platforms like LeetCode aren’t just “grind work.” They help develop pattern recognition, critical thinking, and resilience — all skills that translate directly into system design, debugging in production, and real-world engineering.
+
+    I see it as mental reps for developers — like weightlifting, but for your problem-solving muscles 💪.
 
 ---
 
