@@ -89,6 +89,12 @@
 
 ---
 
+### 🧠 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/mmuzza19?theme=dark&font=Baloo&extension=activity)
+
+---
+
 ### 🎯 2025 Goals
 
 - 🎓 Complete M.S. in Machine Learning (Georgia Tech)
