@@ -113,7 +113,7 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-muzzammil-484a01260/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" /></a>
   <a href="mailto:muzzabyte@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat-square" /></a>
   <a href="https://github.com/mmuzza"><img src="https://img.shields.io/badge/GitHub-000000?logo=github&style=flat-square" /></a>
 </p>
