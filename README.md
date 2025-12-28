@@ -84,7 +84,7 @@
 
 <p align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmuzza&layout=compact&theme=tokyonight&cache_seconds=86400)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mmuzza&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mmuzza&theme=tokyonight)
 
