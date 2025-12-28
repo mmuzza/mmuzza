@@ -83,9 +83,13 @@
 ### 📈 GitHub Activity
 
 <p align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmuzza19&layout=compact&theme=tokyonight&cache_seconds=86400)
-![GitHub Streak](https://streak-stats.demolab.com/?user=mmuzza19&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmuzza&layout=compact&theme=tokyonight&cache_seconds=86400)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=mmuzza&theme=tokyonight)
+
 </p>
+
 
 ---
 
